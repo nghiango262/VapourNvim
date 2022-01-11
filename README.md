@@ -50,7 +50,7 @@ This project is built to be:
 Make sure you have curl and bash installed before you run this script.
 
 ```bash
-curl -s https://raw.githubusercontent.com/VapourNvim/VapourNvim/main/install.sh | bash -s
+curl -s https://raw.githubusercontent.com/nghiango262/VapourNvim/main/install.sh | bash -s
 ```
 
 ## Manual Installation
